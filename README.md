@@ -1,5 +1,5 @@
 # 17.8.2022 (1)
-### Vortschritt
+### Fortschritt
 1. Erstellung eines GitHub Accounts 
 2. Sichtung alter Projekte
 3. Erste Versuche mit Markdown 
