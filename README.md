@@ -1,8 +1,6 @@
 # 17.8.2022 (1)
 ### Fortschritt
-1. Erstellung eines GitHub Accounts 
-2. Sichtung alter Projekte
-3. Erste Versuche mit Markdown 
+In unserer ersten Stunde mussten wir uns ersteinmal ein wenig orientieren und haben dann zunächst unseren GitHuB account erstellt. Danach schauten wir uns alte Projekte anderer Schüler an um einen ersten Eindruck zu bekommen. Schließlich fingern wir dann damit an uns Markdown anzuschauen und anzueignen. 
 
 # Syntax 
 
