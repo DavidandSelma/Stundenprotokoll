@@ -21,3 +21,5 @@ Heute sind wir der Projektfindung näher gekommen. Wir haben uns dazu entschiede
 In dieser Doppelstunde haben wir weiter in Greenfoot gearbeitet. Wir haben gelernt, einen Background in unserer Welt einzufügen und mehrere Objekte. Zudem können wir diesen Objekten nun Befehle erteilen (sie dazu bewgen sich zu bewegen, zu drehen usw.). Zudem haben wir uns ein bereits erstelltes Szenario, das sogenannte "little crab" Szenario angeguckt. Schlussendlich haben wir uns zwei Bücher über Java ausgeliehen, um dort das Arbeiten mit Java zu erlernen und weiterzukommen. 
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/111414662/186355164-d29b46bb-3095-49a3-aa61-cbb1a2e06500.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/111414662/186355428-0a0520ba-72df-47a5-aa77-0f91dc099341.png)
