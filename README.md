@@ -23,3 +23,10 @@ In dieser Doppelstunde haben wir weiter in Greenfoot gearbeitet. Wir haben geler
 ![Screenshot (3)](https://user-images.githubusercontent.com/111414662/186355164-d29b46bb-3095-49a3-aa61-cbb1a2e06500.png)
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/111414662/186355428-0a0520ba-72df-47a5-aa77-0f91dc099341.png)
+
+
+# 30.08.2022
+### Fortschritt 
+Heute habe ich mich mit dem Greenfoot-Szenario "wombats-and-leaves" beschäftigt. Hierzu habe ich das entsprechende Kapitel im Greenfootbuch gelesen und alle Übungen in dieser vorgefertigten Welt ausgeführt, um mich weiter in Greenfoot zu schulen und alles über Actors, Klassen, Welten und Befehle, so wie vieles weiteres zu lernen. 
+
+![Screenshot (1)](https://user-images.githubusercontent.com/111414662/187420481-dd945a84-c328-474f-a381-ad4fe0d20cd9.png)
