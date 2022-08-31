@@ -38,3 +38,4 @@ Heute habe ich mich mit dem Greenfoot-Szenario "wombats-and-leaves" beschäftigt
 Da ich in der letzten Stunde nicht da war, habe ich ebenfalls mit dem Wombat scenario gearbeitet. Ich hab allgemeine interaktionen von Greenfoot-Objekten kennengelenrt. Das heisst ich habe erste versuche mit den den Methoden und ihren Parametern gemacht. (Einführung in Java mit Greenfoot Kapitel 1.1 - 1.6)
 (David)
 
+![Screenshot (5)](https://user-images.githubusercontent.com/111414662/187618295-13ff0bd5-b0a8-4f8d-b256-27dde1210565.png)
