@@ -35,5 +35,5 @@ Heute habe ich mich mit dem Greenfoot-Szenario "wombats-and-leaves" beschäftigt
 
 # 31.08.2022
 ### Fortschritt
-Da ich in der letzten Stunde nicht da war, hab ich ebenfalls mit dem Wombat scenario gearbeitet.
+Da ich in der letzten Stunde nicht da war, habe ich ebenfalls mit dem Wombat scenario gearbeitet.
 
