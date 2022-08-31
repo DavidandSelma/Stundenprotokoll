@@ -36,4 +36,5 @@ Heute habe ich mich mit dem Greenfoot-Szenario "wombats-and-leaves" beschäftigt
 # 31.08.2022
 ### Fortschritt
 Da ich in der letzten Stunde nicht da war, habe ich ebenfalls mit dem Wombat scenario gearbeitet. Ich hab allgemeine interaktionen von Greenfoot-Objekten kennengelenrt. Das heisst ich habe erste versuche mit den den Methoden und ihren Parametern gemacht. (Einführung in Java mit Greenfoot Kapitel 1.1 - 1.6)
+(David)
 
