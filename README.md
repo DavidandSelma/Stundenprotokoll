@@ -39,3 +39,8 @@ Da ich in der letzten Stunde nicht da war, habe ich ebenfalls mit dem Wombat sce
 (David)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/111414662/187618295-13ff0bd5-b0a8-4f8d-b256-27dde1210565.png)
+
+
+# 06.09.2022
+### Fortschritt
+Heute haben wir uns weiter auf der "Joy of code" Seite informiert und weiter daran gearbeitet, unsere Skills in Java und Greenfoot zu Verbessern. 
