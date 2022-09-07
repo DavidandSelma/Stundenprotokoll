@@ -43,4 +43,9 @@ Da ich in der letzten Stunde nicht da war, habe ich ebenfalls mit dem Wombat sce
 
 # 06.09.2022
 ### Fortschritt
-Heute haben wir uns weiter auf der "Joy of code" Seite informiert und weiter daran gearbeitet, unsere Skills in Java und Greenfoot zu Verbessern. 
+Heute haben wir uns weiter auf der "Joy of code" Seite informiert und weiter daran gearbeitet, unsere Skills in Java und Greenfoot zu Verbessern.
+
+
+# 07.09.2022
+### Fortschritt
+In den heutigen Stunden haben Selma und ich uns  überlegt, was für ein Spiel wir programierenb möchten und wie es am Ende aussehen soll. Danach waren wir auf verschiedenen Websiten unterwegs, um uns anzueignen, wie man neue Methoden in Greenfoot programmiert. Daraufhin haben wir das mehrmals geübt und uns noch weitere codes von der Greenfoot Seite angeschaut. Schlussendlich haben wir noch ein Tutorial angeschaut um noch weitere Skills in Greenfoot und Java zu erlernen. 
