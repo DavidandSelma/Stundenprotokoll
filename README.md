@@ -57,3 +57,8 @@ In der heutigen Stunde habe ich eine neue Welt erstellt, in die ich Fische und D
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/111414662/192503127-af021f7f-f362-454c-8ab4-81b692c74d42.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/111414662/192503202-f631cd80-846a-4f41-aceb-a1e6cb06b894.png)
+
+
+#27.09.2022 
+### Fortschritt
+Wir haben uns heute einen konkreten Plan für unser Projekt überlegt. Wir wollen ein Spiel programmieren, bei dem unser Hauptakteur Objekte anderer Klasse einsammeln muss und nochmlas anderen Objekten ausweichen muss. Diese anderen Objekte wollen unseren Akteur fressen. So in etwa soll unser Spiel aussehen. Hat unser Akteur eine gewisse Anzahl an Objekten gefressen, dann kommt ein Levelaufstieg und mehr Feinde kommen hinzu. Es wird also immer schwieriger, je mehr Objekte unser Hauptaktur frisst. 
