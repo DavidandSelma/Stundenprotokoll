@@ -49,3 +49,11 @@ Heute haben wir uns weiter auf der "Joy of code" Seite informiert und weiter dar
 # 07.09.2022
 ### Fortschritt
 In den heutigen Stunden haben Selma und ich uns  überlegt, was für ein Spiel wir programierenb möchten und wie es am Ende aussehen soll. Danach waren wir auf verschiedenen Websiten unterwegs, um uns anzueignen, wie man neue Methoden in Greenfoot programmiert. Daraufhin haben wir das mehrmals geübt und uns noch weitere codes von der Greenfoot Seite angeschaut. Schlussendlich haben wir noch ein Tutorial angeschaut um noch weitere Skills in Greenfoot und Java zu erlernen. 
+
+
+# 14.09.2022
+### Fortschritt
+In der heutigen Stunde habe ich eine neue Welt erstellt, in die ich Fische und Delphine hineinprogrammiert habe. Diesen Tieren habe ich dann auch Methoden programmiert (siehe Screenshot). 
+
+![Screenshot (3)](https://user-images.githubusercontent.com/111414662/192503127-af021f7f-f362-454c-8ab4-81b692c74d42.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/111414662/192503202-f631cd80-846a-4f41-aceb-a1e6cb06b894.png)
