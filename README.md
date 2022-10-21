@@ -68,3 +68,5 @@ Wir haben uns heute einen konkreten Plan für unser Projekt überlegt. Wir wolle
 Heute habe ich ein neues Szenario erstellt, das ´Spiel-Szeanrio´. Darin habe ich Methoden programmiert, die unserem Spiel ähnlich sind. Insgesamt habe ich 3 Actors und eine neue welt programmiert. Die Methoden sind sher unterschiedlich geworden. 
 
 # 5.10.2022
+### Fortschritt
+Ich habe heute die Tastertursteuerung für einen Actor programmiert. Das Objekt kann aich nach oben, unten, rechts und links bewegen. Außerdem habe ich mir Gedanken über Themen des spiels gemacht.
