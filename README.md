@@ -70,3 +70,14 @@ Heute habe ich ein neues Szenario erstellt, das ´Spiel-Szeanrio´. Darin habe i
 # 5.10.2022
 ### Fortschritt
 Ich habe heute die Tastertursteuerung für einen Actor programmiert. Das Objekt kann aich nach oben, unten, rechts und links bewegen. Außerdem habe ich mir Gedanken über Themen des spiels gemacht.
+
+# 22.10.2022
+### Fortschritt 
+Heute haben wir gemeinsam alle Actors in unsere Welt eingebaut und ihnen Methoden programmiert. So muss man ein Spaceship durch eine Spaceworld dirigieren und dabei Wale einsammeln, die zufälligerweise an zufälligen Orten für eine unterschiedlich lange Zeit auftauchen. Die Schwierigkeit dabei ist, dass man Asteroiden ausweichen  muss, die von vorne auch an zufälliger Position geschossen kommen. Trifft das Spaceship auf einen Asteroiden, ist das Spiel verloren und es gibt eine Exoplosion. In diesem Zuge haben wir auch einen `Game Over´Screen programmiert. Zusätzlich dazu haben wir noch ein Scoreboard hinzugefügt, dass mitzählt, wie viele Wale man eingefangen hat. 
+<img width="960" alt="2022-10-22 (3)" src="https://user-images.githubusercontent.com/111414662/197349578-b76ec08d-ab0a-4373-ae11-26e4774bdbcd.png">
+<img width="960" alt="2022-10-22 (4)" src="https://user-images.githubusercontent.com/111414662/197349581-e23db401-a6cb-40a4-a6cd-70a121e083ea.png">
+<img width="960" alt="2022-10-22" src="https://user-images.githubusercontent.com/111414662/197349584-e801392e-9c1f-41d1-8223-c54bf0fe0a44.png">
+<img width="960" alt="2022-10-22 (1)" src="https://user-images.githubusercontent.com/111414662/197349586-dbc3da79-1f90-4242-8d3e-3df258f473e8.png">
+<img width="960" alt="2022-10-22 (2)" src="https://user-images.githubusercontent.com/111414662/197349587-76cdce59-0e12-4d4d-96e1-c2b6890c0e4c.png">
+
+
