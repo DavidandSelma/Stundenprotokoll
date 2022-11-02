@@ -90,4 +90,3 @@ In der heutigen Stunde haben wir zunächst  unser Problem der letzem Stunde beho
 Diese Stunden habne wir uns mit unserer Klasse "Wale" beschäftigt. Wir haben zum einen die Anzahl der Wale erhöht (dass mehrere zufällig vom Spiel eingeworfen werden) und außerdem eine Methode programmiert, bei der die Wale ebenfalls von den Asteroiden, im Falle einer Kollision, entfernt werden. Des Weiteren haben wir noch versucht, das Spaceship etwas zurechtzuschneiden, was uns allerdings noch nicht geglückt ist. Dann haben wir uns noch dazu entschieden, einen Sound einzuführen, wenn die Wale aus der Welt von anderen Actors entfernt werden. Doch ebenso wie den Sound der bei der Explosion zwischen spaceship und Asteroid ertönen soll, müssen wir auch diesen Sound noch so anpassen, dass er von Greenfoot abgespielt werden kann. 
 
 <img width="960" alt="2022-11-02" src="https://user-images.githubusercontent.com/111414662/199435584-0ddbf81c-fae1-46c3-8ea2-3b5b48442d18.png">
-
