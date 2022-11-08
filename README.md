@@ -91,3 +91,6 @@ Diese Stunden habne wir uns mit unserer Klasse "Wale" beschäftigt. Wir haben zu
 
 <img width="960" alt="2022-11-02" src="https://user-images.githubusercontent.com/111414662/199435584-0ddbf81c-fae1-46c3-8ea2-3b5b48442d18.png">
 
+# 08.11.22
+### Fortschritt 
+Heute habe ich daran gearbeitet, einen Explosionssound einzufügen, wenn das Spaceship auf einen Asteroiden trifft. Dies ist mir auch geglückt. Dann habe ich noch einen Sound eingefügt, wenn das Spaceship Wale einsammelt. Ich wollte auch noch einen Sound einfügen, wenn die Asteroiden die Wale verschwinden lassen, aber das hat noch nicht ganz funktioniert. Dann habe ich damit angefangen, einen Startbutton für das Spiel zu programmieren. Wenn man diesen Button klickt, dann soll das Spiel starten. Dies funktioniert noch nicht so ganz; ichhabe zwar den Button fest in die Welt in die Mitte hineinprogrammiert, er verschwindet jedoch nach dem anklicken nicht, sondern bleibt da. Das muss ich noch ändern. Außerdem kann mann den Button beliebig oft drücken und jedesmal beginnt ein neues Spiel. Später soll es allerdings so sein, dass man den Button einmal klickt, damit das Spiel beginnt und er dann verschwindet. 
