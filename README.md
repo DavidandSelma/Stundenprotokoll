@@ -103,3 +103,5 @@ Heute habe ich daran gerbeitet, eine neue Welt, die sozusagen ein zweites Level 
 # 16.11.22
 ### Fortschritt 
 In der heutigen Stunde haben wir daran gearbeitet, mehrere kleine Fehler zu beheben. Zum Besispiel, dass die Asteroiden in Level 2, in der BlackHoleworld, verschwinden, wenn sie den rechten Weltrand berühren, da wir die Welt unendlich gemacht haben. Zudem haben wir die Anzahl der Wale letzendlich doch nochmal erhöht, da das Level sonst sehr langweilig und langwiedrig ist. Zudem haben wir noch den Scorecounter gefixt, sodass er den Punktestand aus Level 1, SpaceWorld, zu Level 2, Blackholeworld, übernimmt.
+
+#
