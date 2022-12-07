@@ -107,3 +107,8 @@ In der heutigen Stunde haben wir daran gearbeitet, mehrere kleine Fehler zu behe
 # 23.11.22
 ### Fortschritt
 Heute haben wir uns damit beschäftigt, uns alte Projekte anzuschauen um Inspiration für unseren Projektbericht zu sammeln. 
+
+# 6.12.22
+### Fortschritt 
+Heute haben wir an unserer Projektseite gearbeitet und müssen nun noch den Code einfügen. Wir haben de Seite so bearbeitet , dass man den Code per Click aufklappen kann. 
+
