@@ -73,7 +73,7 @@ Ich habe heute die Tastertursteuerung für einen Actor programmiert. Das Objekt 
 
 # 22.10.2022 (Zuhause) (12)
 ### Fortschritt 
-Heute haben wir gemeinsam alle Actors in unsere Welt eingebaut und ihnen Methoden programmiert. So muss man ein Spaceship durch eine Spaceworld dirigieren und dabei Wale einsammeln, die zufälligerweise an zufälligen Orten für eine unterschiedlich lange Zeit auftauchen. Die Schwierigkeit dabei ist, dass man Asteroiden ausweichen  muss, die von vorne auch an zufälliger Position geschossen kommen. Trifft das Spaceship auf einen Asteroiden, ist das Spiel verloren und es gibt eine Exoplosion. In diesem Zuge haben wir auch einen `Game Over´Screen programmiert. Zusätzlich dazu haben wir noch ein Scoreboard hinzugefügt, dass mitzählt, wie viele Wale man eingefangen hat. Ein sich wiederholendes Problem ist, dass das Piel sich oft aufhängt.
+Heute haben wir und zu Hause getroffen, um ein bisschen besser voranzukommen. Gemeinsam haben wir alle Actors in unsere Welt eingebaut und die jeweiligen Methoden programmiert. So muss man ein Spaceship durch eine Spaceworld dirigieren und dabei Wale einsammeln, die zufälligerweise an zufälligen Orten für eine unterschiedlich lange Zeit auftauchen. Die Schwierigkeit dabei ist, dass man Asteroiden ausweichen  muss, die von vorne auch an zufälliger Position geschossen kommen. Trifft das Spaceship auf einen Asteroiden, ist das Spiel verloren und es gibt eine Exoplosion. In diesem Zuge haben wir auch einen "Game Over"-Banner programmiert. Zusätzlich dazu haben wir noch ein Scoreboard hinzugefügt, das mitzählt, wie viele Wale man eingefangen hat. Ein sich wiederholendes Problem ist, dass das Spiel sich oft aufhängt.
 
 
 <img width="960" alt="2022-10-22 (3)" src="https://user-images.githubusercontent.com/111414662/197349578-b76ec08d-ab0a-4373-ae11-26e4774bdbcd.png">
@@ -83,41 +83,42 @@ Heute haben wir gemeinsam alle Actors in unsere Welt eingebaut und ihnen Methode
 <img width="960" alt="2022-10-22 (2)" src="https://user-images.githubusercontent.com/111414662/197349587-76cdce59-0e12-4d4d-96e1-c2b6890c0e4c.png">
 
 
-# 26.10.22
+# 26.10.22 (13)
 ### Fortschritt
-In der heutigen Stunde haben wir zunächst  unser Problem der letzem Stunde behoben. Danach haben wir das Gegenstück zu unserem Game Over Screen programmiert: einen Victory Screen. Dieser taucht auf, wenn man das Spiel gewonnen hat (wenn 10 Wale eingefangen wurden). Dazu haben wir im Counter eingestellt, dass das Spiel nach diesen 10 (oder mehr) gefangenen Walen automatisch aufhört. Ein Problem ist noch, dass das Ausmaß des Spaceships noch zu groß ist und so eine Kollision mit einem Assteroiden und die damit einhergehende Beendigung des Spiels zu früh eintritt. Um dieses Probrlm wollen wir uns nächste Stunde kümemrn. Außerdem haben wir uns dazu entschlossen, eine Hintergrundmusik hinter unser Spiel zu legen. Auch dies werden wir die nächsten Stunden in Angriff nehmen. 
+In der heutigen Stunde haben wir zunächst unser Problem der letzen Stunde behoben. Danach haben wir das Gegenstück zu unserem "Game Over"-Banner programmiert: einen "Victory"-Banner. Dieser taucht auf, wenn man das Spiel gewonnen hat (wenn 10 Wale eingesammelt wurden). Dazu haben wir im Counter eingestellt, dass das Spiel nach diesen 10 (oder mehr) gefangenen Walen automatisch aufhört. Ein Problem ist noch, dass das Ausmaß des Spaceships noch zu groß ist und so eine Kollision mit einem Assteroiden und die damit einhergehende Beendigung des Spiels zu früh eintritt. Um dieses Problem wollen wir uns nächste Stunde kümemrn. Außerdem haben wir uns dazu entschlossen, eine Hintergrundmusik hinter unser Spiel zu legen. Auch das werden wir die nächsten Stunden in Angriff nehmen. 
 
-# 02.11.22
+# 02.11.22 (14)
 ### Fortschritt 
-Diese Stunden habne wir uns mit unserer Klasse "Wale" beschäftigt. Wir haben zum einen die Anzahl der Wale erhöht (dass mehrere zufällig vom Spiel eingeworfen werden) und außerdem eine Methode programmiert, bei der die Wale ebenfalls von den Asteroiden, im Falle einer Kollision, entfernt werden. Des Weiteren haben wir noch versucht, das Spaceship etwas zurechtzuschneiden, was uns allerdings noch nicht geglückt ist. Dann haben wir uns noch dazu entschieden, einen Sound einzuführen, wenn die Wale aus der Welt von anderen Actors entfernt werden. Doch ebenso wie den Sound der bei der Explosion zwischen spaceship und Asteroid ertönen soll, müssen wir auch diesen Sound noch so anpassen, dass er von Greenfoot abgespielt werden kann. 
+Diese Stunden haben wir uns mit unserer Klasse "Wale" beschäftigt. Wir haben zum einen die Anzahl der Wale erhöht (so dass mehrere zufällig vom Spiel eingeworfen werden) und außerdem eine Methode programmiert, bei der die Wale ebenfalls von den Asteroiden, im Falle einer Kollision, entfernt werden. Des Weiteren haben wir noch versucht, das Spaceship etwas zurechtzuschneiden, was uns allerdings noch nicht geglückt ist. Dann haben wir uns noch dazu entschieden, einen Sound einzuführen, wenn die Wale aus der Welt von anderen Actors entfernt werden. Doch ebenso wie den Sound, der bei der Explosion zwischen Spaceship und Asteroid ertönen soll, müssen wir auch diesen Sound noch so anpassen, dass er von Greenfoot abgespielt werden kann. 
 
 <img width="960" alt="2022-11-02" src="https://user-images.githubusercontent.com/111414662/199435584-0ddbf81c-fae1-46c3-8ea2-3b5b48442d18.png">
 
-# 08.11.22
+# 08.11.22 (15)
 ### Fortschritt 
-Heute habe ich daran gearbeitet, einen Explosionssound einzufügen, wenn das Spaceship auf einen Asteroiden trifft. Dies ist mir auch geglückt. Dann habe ich noch einen Sound eingefügt, wenn das Spaceship Wale einsammelt. Ich wollte auch noch einen Sound einfügen, wenn die Asteroiden die Wale verschwinden lassen, aber das hat noch nicht ganz funktioniert. Dann habe ich damit angefangen, einen Startbutton für das Spiel zu programmieren. Wenn man diesen Button klickt, dann soll das Spiel starten. Dies funktioniert noch nicht so ganz; ichhabe zwar den Button fest in die Welt in die Mitte hineinprogrammiert, er verschwindet jedoch nach dem anklicken nicht, sondern bleibt da. Das muss ich noch ändern. Außerdem kann mann den Button beliebig oft drücken und jedesmal beginnt ein neues Spiel. Später soll es allerdings so sein, dass man den Button einmal klickt, damit das Spiel beginnt und er dann verschwindet. 
+Heute haben wir daran gearbeitet, einen Explosionssound einzufügen, wenn das Spaceship auf einen Asteroiden trifft. Dies ist uns auch geglückt. Dann haben wir noch einen Sound eingefügt, wenn das Spaceship Wale einsammelt. Wir wollten auch noch einen Sound einfügen, wenn die Asteroiden die Wale verschwinden lassen, aber das hat noch nicht ganz funktioniert. Dann haben wir damit angefangen, einen Startbutton für das Spiel zu programmieren. Wenn man diesen Button klickt, dann soll das Spiel starten. Dies funktioniert noch nicht so ganz; wir haben zwar den Button fest in die Welt in die Mitte hineinprogrammiert, er verschwindet jedoch nach dem Anklicken nicht, sondern bleibt da. Das müssen wir noch ändern. Außerdem kann mann den Button beliebig oft drücken und jedesmal beginnt ein neues Spiel. Später soll es allerdings so sein, dass man den Button einmal klickt, damit das Spiel beginnt und er dann verschwindet. 
 
-# 09.11.22
+# 09.11.22 (16)
 ### Fortschritt 
-Heute habe ich daran gerbeitet, eine neue Welt, die sozusagen ein zweites Level ist, zu erstellen. Diese Welt heißt BlackHoleworld. Sie hat die gleichen Eigenschaften, wie die Spaceworld, außer, dass mehr Asteroiden und weniger Wale kommen. Zudem muss man auch 15 statt nur 10 Wale einsammlen. Die BlackHoleworld ist somit schwieriger als die Spaceworld. Außerdem habe ich es so programmiert, dass das Spaceship dasselbe bleibt, wenn man einen Levelaufsteig von der Spaceworld in die BlackHoleworld hat. Der Aufsteig erfolgt automatsich, wenn man 10 Wale in der Spaceworld gesammelt hat. Ein Problem ist jedoch, dass der Scorecounter in der BlackHoleworld wieder bei 0 ist, obwohl er eigentlich bei 10 bleiben sollte. Des Weiteren sammeln sich die Asteroiden am rechten Bildrand in der BlackHoleworld. In der Spaceworld habe ich die Anzahl der Asteroiden verringert und die der Wale erhöht, um es ein bisschen einfacher zu machen. Das Probelm mit dem Startbutton ist auch noch nicht vollständig gelöst. 
+Heute habe ich daran gearbeitet, eine neue Welt, die sozusagen ein zweites Level ist, zu erstellen. Diese Welt heißt "BlackHoleworld". Sie hat die gleichen Eigenschaften wie die "SpaceWorld", außer, dass mehr Asteroiden und weniger Wale kommen. Zudem muss man auch 15 statt nur 10 Wale einsammlen. Die "BlackHoleworld" ist somit schwieriger als die "SpaceWorld". Außerdem habe ich es so programmiert, dass das Spaceship dasselbe bleibt, wenn man einen Levelaufsteig von der Spaceworld in die "BlackHoleworld" hat. Der Aufsteig erfolgt automatsich, wenn man 10 Wale in der "SpaceWorld" gesammelt hat. Ein Problem ist jedoch, dass der Scorecounter in der "BlackHoleworld" wieder bei 0 ist, obwohl er eigentlich bei 10 bleiben sollte. Des Weiteren sammeln sich die Asteroiden am rechten Bildrand in der "BlackHoleworld". In der "SpaceWorld" habe ich die Anzahl der Asteroiden verringert und die der Wale erhöht, um es ein bisschen einfacher zu machen. Das Problem mit dem Startbutton ist auch noch nicht vollständig gelöst. (Selma)
+
 ![grafik](https://user-images.githubusercontent.com/111414662/200777501-abd7ec42-cdd4-42e1-8422-c7fae1f2fc4e.png)
 
-# 16.11.22
+# 16.11.22 (17)
 ### Fortschritt 
-In der heutigen Stunde haben wir daran gearbeitet, mehrere kleine Fehler zu beheben. Zum Besispiel, dass die Asteroiden in Level 2, in der BlackHoleworld, verschwinden, wenn sie den rechten Weltrand berühren, da wir die Welt unendlich gemacht haben. Zudem haben wir die Anzahl der Wale letzendlich doch nochmal erhöht, da das Level sonst sehr langweilig und langwiedrig ist. Zudem haben wir noch den Scorecounter gefixt, sodass er den Punktestand aus Level 1, SpaceWorld, zu Level 2, Blackholeworld, übernimmt.
+In der heutigen Stunde haben wir daran gearbeitet, mehrere kleine Fehler zu beheben. Zum Besispiel, dass die Asteroiden in Level 2, in der "BlackHoleworld", verschwinden, wenn sie den rechten Weltrand berühren, da wir die Welt unendlich gemacht haben. Zudem haben wir die Anzahl der Wale letzendlich doch nochmal erhöht, da das Level sonst sehr langweilig und langwierig ist. Zudem haben wir noch den Scorecounter gefixt, sodass er den Punktestand aus Level 1, "SpaceWorld", zu Level 2, "Blackholeworld", übernimmt.
 
-# 23.11.22
+# 23.11.22 (18)
 ### Fortschritt
 Heute haben wir uns damit beschäftigt, uns alte Projekte anzuschauen um Inspiration für unseren Projektbericht zu sammeln. 
 
-# 3.12.22 (Zuhause)
+# 3.12.22 (Zuhause) (19)
 ### Fortschritt 
-Wir haben uns heute einmal außerhalb der Schule getroffen um einen kleinen Fehler zu behebn: und zwar den, dass der Score im 2. Level nicht mit 0 startet, sondern mit 10 (die in Level 1. bereits erworben wurden). Wir haben dies so gelöst. dass der Score dem Spaceship als Parameter übergeben wird. Dann haben wir noch unseren Projektbericht erstellt und angefangen, an ihm zu arbeiten. 
+Wir haben uns heute noch einmal außerhalb der Schule getroffen, um einen kleinen Fehler zu beheben: und zwar den, dass der Score im 2. Level nicht mit 0 startet, sondern mit 10 (die in Level 1. bereits erworben wurden). Wir haben dies so gelöst. dass der Score dem Spaceship als Parameter übergeben wird. Dann haben wir noch unseren Projektbericht erstellt und angefangen, an ihm zu arbeiten. 
 
-# 6.12.22
+# 6.12.22 (20)
 ### Fortschritt 
-Heute haben wir an unserer Projektseite gearbeitet und müssen nun noch den Code einfügen. Wir haben de Seite so bearbeitet , dass man den Code per Click aufklappen kann. 
+Heute haben wir an unserer Projektseite gearbeitet und müssen nun noch den Code einfügen. Wir haben de Seite so bearbeitet, dass man den Code per Click aufklappen kann. 
 
-# 7.12.22
+# 7.12.22 (21)
 ### Fortschritt 
 In der heutigen Stunde haben wir die Hintergrundmusik ausgewählt und unter das Spiel gelegt. Des Weiteren haben wir noch an unserem Projektbericht gearbeitet und ihn fertiggestellt.
