@@ -71,7 +71,7 @@ Heute habe ich ein neues Szenario erstellt, das ´Spiel-Szeanrio´. Darin habe i
 ### Fortschritt
 Ich habe heute die Tastertursteuerung für einen Actor programmiert. Das Objekt kann aich nach oben, unten, rechts und links bewegen. Außerdem habe ich mir Gedanken über Themen des spiels gemacht.
 
-# 22.10.2022
+# 22.10.2022 (Zuhause)
 ### Fortschritt 
 Heute haben wir gemeinsam alle Actors in unsere Welt eingebaut und ihnen Methoden programmiert. So muss man ein Spaceship durch eine Spaceworld dirigieren und dabei Wale einsammeln, die zufälligerweise an zufälligen Orten für eine unterschiedlich lange Zeit auftauchen. Die Schwierigkeit dabei ist, dass man Asteroiden ausweichen  muss, die von vorne auch an zufälliger Position geschossen kommen. Trifft das Spaceship auf einen Asteroiden, ist das Spiel verloren und es gibt eine Exoplosion. In diesem Zuge haben wir auch einen `Game Over´Screen programmiert. Zusätzlich dazu haben wir noch ein Scoreboard hinzugefügt, dass mitzählt, wie viele Wale man eingefangen hat. Ein sich wiederholendes Problem ist, dass das Piel sich oft aufhängt.
 <img width="960" alt="2022-10-22 (3)" src="https://user-images.githubusercontent.com/111414662/197349578-b76ec08d-ab0a-4373-ae11-26e4774bdbcd.png">
@@ -108,7 +108,14 @@ In der heutigen Stunde haben wir daran gearbeitet, mehrere kleine Fehler zu behe
 ### Fortschritt
 Heute haben wir uns damit beschäftigt, uns alte Projekte anzuschauen um Inspiration für unseren Projektbericht zu sammeln. 
 
+# 3.12.22 (Zuhause)
+### Fortschritt 
+Wir haben uns heute einmal außerhalb der Schule getroffen um einen kleinen Fehler zu behebn: und zwar den, dass der Score im 2. Level nicht mit 0 startet, sondern mit 10 (die in Level 1. bereits erworben wurden). Wir haben dies so gelöst. dass der Score dem Spaceship als Parameter übergeben wird. Dann haben wir noch unseren Projektbericht erstellt und angefangen, an ihm zu arbeiten. 
+
 # 6.12.22
 ### Fortschritt 
 Heute haben wir an unserer Projektseite gearbeitet und müssen nun noch den Code einfügen. Wir haben de Seite so bearbeitet , dass man den Code per Click aufklappen kann. 
 
+# 7.12.22
+### Fortschritt 
+In der heutigen Stunde haben wir die Hintergrundmusik ausgewählt und unter das Spiel gelegt. Des Weiteren haben wir noch an unserem Projektbericht gearbeitet und ihn fertiggestellt.
